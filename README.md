@@ -4,12 +4,15 @@
 | --------------------------- |
 | [![](https://dcbadge.vercel.app/api/server/dodcommunity?style=plastic)](https://discord.gg/dodcommunity) |
 
-This is the place where a completely reviewed and refined version of the original `dod.fgd` file is hosted.
+Here, we host a thoroughly reviewed and improved version of the original `dod.fgd` file.
 
-> It is based on the [official Forge Game Data version 4.1](https://developer.valvesoftware.com/wiki/Day_of_Defeat_4.1.fgd) file hosted on Valve Developer Community
+It is derived from the [Forge Game Data](https://developer.valvesoftware.com/wiki/Day_of_Defeat_4.1.fgd) file available on the [Valve Developer Community website](https://developer.valvesoftware.com).
+
+> [!NOTE]
+> The last official version is technically `4.0`; `4.1` represents an [additional minor update](https://www.reddit.com/r/DayOfDefeat/comments/ufrt0q/updated_dodfgd_to_v41_added_game_player_equip/) shared on Reddit.
 
 ## Installation and Usage
 
-Transfer the `dod` directory from this repository into the `Half-Life` folder within your Steam installation directory; you'll be asked to overwrite the current directory and files.
+Download and copy the `dod` directory from this repository to the `Half-Life` folder in your Steam installation directory; you will be prompted to replace the existing directory and files.
 
-Then, configure your favourite level editor to read and make use of this file.
+Next, set up your preferred level editor to use this file to design custom [Day of Defeat](https://store.steampowered.com/app/30/Day_of_Defeat/) maps.
