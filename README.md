@@ -16,3 +16,9 @@ It is derived from the [Forge Game Data](https://developer.valvesoftware.com/wik
 Download and copy the `dod` directory from this repository to the `Half-Life` folder in your Steam installation directory; you will be prompted to replace the existing directory and files.
 
 Next, set up your preferred level editor to use this file to design custom [Day of Defeat](https://store.steampowered.com/app/30/Day_of_Defeat/) maps.
+
+## Contributing Guidelines
+
+- First, clone this repository and start a new branch.
+- Make your modifications and commit them.
+- Once complete, submit a Pull Request detailing the changes you have implemented.
