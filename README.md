@@ -19,6 +19,9 @@ Next, set up your preferred level editor to use this file to design custom [Day 
 
 ## Contributing Guidelines
 
-- First, clone this repository and start a new branch.
-- Make your modifications and commit them.
-- Once complete, submit a Pull Request detailing the changes you have implemented.
+- Begin by forking this repository.
+- Clone your fork locally and create a new branch.
+- Implement your changes and then commit and push them.
+- After completing your modifications, open a Pull Request from your branch to the `main` branch, including:
+  * A concise yet descriptive title
+  * All necessary details (context, solution, screenshots) to explain the reason behind your changes
